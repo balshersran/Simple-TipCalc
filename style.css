@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    display: flexbox;
+    padding: 2%;
+}
+
+body {
+    background-color: wheat;
+    display: flexbox;
+}
+
+button {
+    text-align: center;
+    opacity: 80%;
+}
